@@ -922,7 +922,7 @@ KeySystem:CreateKeySystem({
     SaveKey = false,
     MainScriptCallback = function(success)
         if success then
-            loadstring(game:HttpGet("https://github.com/KryvexOnTop/KryvexPublic/raw/refs/heads/main/Kryvex%20Public.txt"))()
+            loadstring(game:HttpGet("https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/Kryvex%20Public.txt"))()
 
             getgenv().Get = setmetatable({}, {
                 __index = function(_, serviceName)
