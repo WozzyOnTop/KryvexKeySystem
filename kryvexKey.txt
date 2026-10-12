@@ -142,7 +142,7 @@ CreateHubBtn("Blox Fruits",
 CreateHubBtn("+1 speed monkey escape",
 " ")
 CreateHubBtn("Blade Ball",
-" ")
+"https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/obfuscated_Blade_ball.txt")
 
     local loaderEntry = TweenService:Create(LoaderFrame, TweenInfo.new(0.8, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
         Position = UDim2.new(0.5, -190, 0.5, -130)
