@@ -140,7 +140,7 @@ CreateHubBtn("Sell A Limons",
 CreateHubBtn("Blox Fruits",
 "https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/obfuscated_blox_fruits.txt")
 CreateHubBtn("+1 speed monkey escape",
-" ")
+"https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/obfuscated_1.txt")
 CreateHubBtn("Blade Ball",
 "https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/obfuscated_Blade_ball.txt")
 
