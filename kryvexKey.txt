@@ -137,6 +137,12 @@ CreateHubBtn("Steal A Brainrot ",
 "https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/obfuscated_Kryvex_Hub_Sab.txt")
 CreateHubBtn("Sell A Limons",
 "https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/obfuscated_Rayfield_Sell_a_Lemon.lua_2.txt")
+CreateHubBtn("Blox Fruits",
+"https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/obfuscated_blox_fruits.txt")
+CreateHubBtn("+1 speed monkey escape",
+" ")
+CreateHubBtn("Blade Ball",
+" ")
 
     local loaderEntry = TweenService:Create(LoaderFrame, TweenInfo.new(0.8, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
         Position = UDim2.new(0.5, -190, 0.5, -130)
