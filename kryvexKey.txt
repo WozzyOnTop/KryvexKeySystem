@@ -133,6 +133,8 @@ local function OpenKryvexHubLoader()
     CreateHubBtn("Muscle Legends", "https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/Kryvex%20Public.txt")
 CreateHubBtn("Murder Mystery 2", "https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/Mm2")
 CreateHubBtn("Steal A Brainrot Duels ", "https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/Duel")
+CreateHubBtn("Steal A Brainrot ",
+"https://github.com/WozzyOnTop/KryvexPublic/raw/refs/heads/main/obfuscated_Kryvex_Hub_Sab.txt")
 
     local loaderEntry = TweenService:Create(LoaderFrame, TweenInfo.new(0.8, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
         Position = UDim2.new(0.5, -190, 0.5, -130)
